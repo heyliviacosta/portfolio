@@ -10,6 +10,7 @@ Produto de dados para inteligência e performance de uma rede de parceiros comer
 ## Documentação
 
 - [Especificação do produto](docs/product-spec.md)
+- [Regras de negócio (metodologia V1)](docs/business-rules.md)
 
 ## Dados
 

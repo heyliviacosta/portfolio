@@ -35,7 +35,7 @@ Integrar informações comerciais e financeiras e transformá-las em uma visão 
 - Score.
 - Faixa ABCD.
 - Ranking.
-- Recorrência.
+- Consistência de Produção.
 - Qualidade dos dados.
 
 ## Fora do escopo da V1
@@ -45,7 +45,7 @@ Integrar informações comerciais e financeiras e transformá-las em uma visão 
 ## Princípios
 
 - Score e suas regras devem ser transparentes e versionados.
-- Recorrência é uma dimensão complementar e não compõe o Score.
+- Consistência de Produção compõe o Score de Performance, com peso de 15% na V1, medida na V1 pela proporção entre meses com produção e meses observáveis.
 - Mês corrente não participa da avaliação.
 - Parceiros novos devem receber tratamento específico.
 - Problemas de qualidade devem ser identificáveis e explicáveis.
