@@ -1,1 +1,14 @@
-﻿# Portfolio
+# Portfolio
+
+Ecossistema pessoal de portfólio: um espaço para documentar e disponibilizar produtos de dados demonstráveis, desenvolvidos por mim, com dados exclusivamente sintéticos/fictícios.
+
+## Estrutura
+
+- `products/` — cada produto de portfólio, isolado em sua própria pasta (código, dados sintéticos e documentação).
+- `docs/` — decisões de arquitetura e convenções que se aplicam ao repositório como um todo.
+
+## Produtos
+
+- [Cluster](products/cluster/README.md) — reconstrução para portfólio de um produto analítico, com dados sintéticos.
+
+Veja [docs/architecture.md](docs/architecture.md) para o contexto de stack e branching.
