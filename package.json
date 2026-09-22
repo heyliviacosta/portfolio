@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Ecossistema pessoal de portfólio: um espaço para documentar e disponibilizar produtos de dados demonstráveis, desenvolvidos por mim, com dados exclusivamente sintéticos/fictícios.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyliviacosta/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heyliviacosta/portfolio/issues"
+  },
+  "homepage": "https://github.com/heyliviacosta/portfolio#readme",
+  "devDependencies": {
+    "supabase": "^2.117.0"
+  }
+}
