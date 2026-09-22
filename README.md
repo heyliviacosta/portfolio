@@ -10,6 +10,6 @@ Ecossistema pessoal de portfólio: um espaço para documentar e disponibilizar p
 
 ## Produtos
 
-- [Cluster](products/cluster/README.md) — reconstrução para portfólio de um produto analítico, com dados sintéticos.
+- [Prisma](products/prisma/README.md) — produto de dados para inteligência e performance de uma rede de parceiros comerciais.
 
 Veja [docs/architecture.md](docs/architecture.md) para o contexto de stack e branching.
